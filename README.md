@@ -1,5 +1,4 @@
 # SpeechToText
-### Description
 A speech-to-text app using Sphinx.
 
 ### Story behind this
